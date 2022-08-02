@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I am a hands-on learner, hence prefer learning new technologies through development.
 
-- :zap: In my free time, I solve problems on JSchallenger & GeeksforGeeks ( Kidding haha ) { Not kidding }.
+- :zap: In my free time, I solve problems on JSchallenger & GeeksforGeeks.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
